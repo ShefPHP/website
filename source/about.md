@@ -1,8 +1,8 @@
 ---
-layout: default
+layout: munter
 title: About
 
 ---
-# About the Author or Blog
+# A user group for the PHP developers of Sheffield and South Yorkshire.
 
 Here is a little information about the author or the blog.
