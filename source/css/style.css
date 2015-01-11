@@ -610,3 +610,8 @@ body {
 .navigation-slide {
 	cursor: pointer;
 }
+
+img.mugshot {
+	width: 81px;
+	height: 81px;
+}
