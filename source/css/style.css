@@ -216,7 +216,7 @@ body {
 }
 
 #slide-1 {
-	background-image: url('../images/bg2.jpg');
+	background-image: url('../images/sheffield_panorama.jpg');
 	color: #ffffff;
     -webkit-background-size: 100%;
     -moz-background-size: 100%;
@@ -487,7 +487,6 @@ body {
 }
 
 	#contact-row-4 {
-		padding-top: 125px;
 	}
 
 	#contact-row-4 .col-12 {
